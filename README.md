@@ -5,7 +5,7 @@ Below are a scripts that you should be including for all your git repositories f
 
 
 ###Required
-post-message-hook
+prepare-commit-msg
 
 post-message-hook will generate our commit message template in the following format, if you commit without using -m, it will open your editor with an auto-generated format.
 
